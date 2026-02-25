@@ -1,2 +1,8 @@
+-- Configuração do GIT
 git config --global user.name kaua102
 git config --global user.email kaua26987@gmail.com
+
+-- Criar projeto vazio
+npx create-expo-app@latest calculadora --template blank
+
+
